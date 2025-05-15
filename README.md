@@ -82,6 +82,4 @@ Millicent Anyango Ocheing
 Software Engineering | Data Science Enthusiast
 
 
----
 
-Let me know if you want this README saved as a downloadable file or need a version that includes screenshots or plots.
